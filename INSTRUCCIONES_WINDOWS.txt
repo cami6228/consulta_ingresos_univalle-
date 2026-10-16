@@ -1,0 +1,37 @@
+========================================================================
+GUÍA DE USO RÁPIDO · CONSULTA DE INGRESOS (UNIVERSIDAD DEL VALLE)
+========================================================================
+
+Para abrir y usar esta aplicación en Windows:
+
+PASO 1: Requisito Único
+-----------------------
+Asegúrate de tener Python instalado en tu computador.
+Si aún no lo tienes:
+1. Descárgalo gratis desde: https://www.python.org/downloads/
+2. IMPORTANTE: En la primera pantalla de instalación, asegúrate de marcar
+   la casilla que dice:
+   [X] "Add python.exe to PATH"
+3. Haz clic en "Install Now".
+
+PASO 2: Abrir la Aplicación
+----------------------------
+1. Descomprime esta carpeta en tu computador si viene en archivo .zip.
+2. Haz doble clic sobre el archivo:
+   
+   👉 Iniciar_App.bat
+
+3. La primera vez que lo abras, el programa configurará automáticamente 
+   los componentes necesarios (tarda 1 a 2 minutos).
+   
+4. En las siguientes ocasiones, la aplicación abrirá de inmediato en tu
+   navegador web (Chrome, Edge, etc.).
+
+PASO 3: Cerrar la Aplicación
+-----------------------------
+Cuando termines de consultar tus reportes y descargar los archivos en Excel, 
+simplemente cierra la ventana negra (consola) o la pestaña de tu navegador.
+
+========================================================================
+Universidad del Valle · Herramienta de Consulta y Auditoría de Ingresos
+========================================================================
